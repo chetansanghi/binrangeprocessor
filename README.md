@@ -1,0 +1,6 @@
+-- Bin Range Processor First Version
+-- Uses Java 8 and Basic maven archetype project
+-- First version contains
+   -- Code to initialize(hard coded) using TreeSet DB and File Bin Range
+   -- Code to iterate and make sure sorting is by Start IIN Descending
+   -- Commented code for processing BIN Range
